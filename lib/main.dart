@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:solid/bloc/color_bloc/color_bloc.dart';
-import 'package:solid/bloc/pages/home_screen.dart';
+import 'package:solid/pages/home_screen.dart';
 
 void main() {
   runApp(const MyApp());
